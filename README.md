@@ -5,9 +5,7 @@
 
 ##  技術スタック
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 
 ### Tools & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
