@@ -4,8 +4,10 @@
 -  インターン募集中
 ##  参加した企画・プロジェクト
 
--  [2024夏モテ活アプリ]([https://github.com/hackathon-team/weather-app](https://github.com/vantan-project/motekatu))  
-  → djangoで開発。"モテるための活動"略してモテ活をテーマにユーザーのレビューをまとめたプラットフォームとなるアプリケーション。HTMLをwebアプリとして動作できるようにコードの書き換えを中心に担当しました（チーム参加）
+- [2024夏モテ活アプリ](https://github.com/vantan-project/motekatu)  
+  → Djangoで開発。**"モテるための活動"（モテ活）**をテーマに、ユーザーのレビューをまとめたプラットフォーム型アプリケーション。  
+  HTMLをWebアプリとして動作させるためのコードの書き換えを中心に担当しました（チーム参加）。
+
 
   -  [web AR]([[https://github.com/hackathon-team/weather-app](https://github.com/vantan-project/motekatu)](https://github.com/tatuki1107/WebAR))  
   → 文化祭で全て一人で作り上げたweb AR。
