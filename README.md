@@ -1,16 +1,23 @@
-## Hi there 👋
+##  About Me
+-  KADOKAWAドワンゴ情報工科学院大学部所属
+-  将来はARを主体とした分野に関われたらと思い日々昇進中！！
+-  インターン募集中
 
-<!--
-**tatuki1107/tatuki1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  技術スタック
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-Here are some ideas to get you started:
+### Tools & Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=tokyonight)
+
+##  Contact
+-  メール: kuwano.t.24kdgn@gmail.com
+- ポートフォリオ:現在準備中
