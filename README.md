@@ -12,7 +12,7 @@
 
 -  [Web AR](https://github.com/tatuki1107/WebAR)  
   → 文化祭で**全て一人で制作**したWeb ARコンテンツ。
-  [こちらから確認できます](https://github.com/tatuki1107/WebAR) 
+  [こちらから確認できます](https://tatuki1107.github.io/WebAR/) 
 
 -  [2024冬 サントリーグローバルイノベーションセンター様 × 産学連携企画](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)  
   → Djangoで開発。データベースの要件定義、HTMLのWebアプリ化対応、バックエンド処理などを全て担当しました（チーム参加）。
