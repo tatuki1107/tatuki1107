@@ -19,6 +19,9 @@
 
 -  [3Dモデル対話AI](https://github.com/tatuki1107/bunkasaichatAI)  
   → ２年次文化祭で3Dモデルからバックエンドまで**全て一人で制作**した対話型chatAI。grok aniをイメージして作りました。
+**アプリの実際の動きはこちら👇**
+
+![Demo GIF](./assets/Videotogif.gif)
 
 
 ##  技術スタック
