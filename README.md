@@ -16,6 +16,9 @@
 -  [2024冬 サントリーグローバルイノベーションセンター様 × 産学連携企画](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)  
   → Djangoで開発。データベースの要件定義、HTMLのWebアプリ化対応、バックエンド処理などを全て担当しました（チーム参加）。
 
+-  [3Dモデル対話AI](https://github.com/tatuki1107/bunkasaichatAI)  
+  → ２年次文化祭で3Dモデルからバックエンドまで**全て一人で制作**した対話型chatAI。grok aniをイメージして作りました。
+
 
 ##  技術スタック
 ### Languages
