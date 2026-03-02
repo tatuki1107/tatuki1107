@@ -46,17 +46,59 @@
       </div>
     </td>
   </tr>
--  [銀髪ロング美少女DiscordBot]
- → Discord上のBOTでOllamaを使用しLLMAIとして銀髪ロング美少女として会話、反応してくれる機能としては
- 会話AI
- 最初の1文字までの遅延を最小化（約 1〜2 秒）高速返答を実現
+  <div>
+<h3>銀髪ロング美少女 Discord Bot</h3>
 
- ディスコード上の会話を把握し内容に沿って反応してくれる
- 短期記憶/長期記憶
+<p>
+Discord 上で動作する Bot です。<br/>
+Ollama を利用したローカル LLM を搭載し、<br/>
+<strong>「銀髪ロング美少女」人格として自然な会話・反応</strong>を行います。
+</p>
 
-bot成長機能
-bot自身がプロンプトを変更することでより良い成長を遂げていく
+<hr/>
 
+<h4>機能</h4>
+
+<ul>
+  <li>
+    <strong>会話AI</strong><br/>
+    Ollama を用いた LLM により、Discord 上で自然な会話を実現
+  </li>
+  <li>
+    <strong>高速レスポンス</strong><br/>
+    最初の1文字までの遅延を最小化（約 1〜2 秒）し、テンポの良い返答を実現
+  </li>
+  <li>
+    <strong>文脈理解</strong><br/>
+    Discord 上の発言内容を把握し、会話の流れに沿った反応を行う
+  </li>
+  <li>
+    <strong>短期記憶 / 長期記憶</strong><br/>
+    直近の会話履歴（短期記憶）と、要約・Embedding による長期記憶を組み合わせて会話を継続
+  </li>
+  <li>
+    <strong>Bot 成長機能</strong><br/>
+    会話内容を要約・蓄積し、将来的なプロンプト改善や振る舞いの成長につなげる設計
+  </li>
+</ul>
+
+<hr/>
+
+<h4>スクリーンショット</h4>
+
+<table>
+  <tr>
+    <td colspan="2">
+      <div style="display: flex; justify-content: center;">
+        <img
+          style="width: 100%; height: auto;"
+          alt="銀髪ロング美少女Bot スクリーンショット"
+          src="./assets/IMG/si-tyan.png"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ##  技術スタック
 ### Languages
