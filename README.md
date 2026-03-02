@@ -3,6 +3,7 @@
 -  将来はARを主体とした分野に関われたらと思い日々昇進中！！
 -  基本的に新しいことには全力で関わりに行きます！！
 -  インターン募集中
+-  個人でのアプリ販売経験があります！
   
 ##  参加した企画・プロジェクト
 
@@ -37,7 +38,24 @@
 
 -  [神戸ナイトタイムエコノミー](https://yorunotobira.com/)
  → ２年次にArtFanders Inc.様とインターンシップを通じて開発。神戸市からの依頼として作成しました。内容としてはAI観光コンシェルジュ。
+    <tr>
+    <td colspan="2" rowspan="2">
+      <div style="display: flex">
+        <img style="width: 100%; height: auto;" alt="スクリーンショット" src="./assets/IMG/screenshot_20260302_234746.png"" />
+        <img style="width: 100%; height: auto;" alt="スクリーンショット" src="./assets/IMG/screenshot_20260302_234748.png"" />
+      </div>
+    </td>
+  </tr>
+-  [銀髪ロング美少女DiscordBot]
+ → Discord上のBOTでOllamaを使用しLLMAIとして銀髪ロング美少女として会話、反応してくれる機能としては
+ 会話AI
+ 最初の1文字までの遅延を最小化（約 1〜2 秒）高速返答を実現
 
+ ディスコード上の会話を把握し内容に沿って反応してくれる
+ 短期記憶/長期記憶
+
+bot成長機能
+bot自身がプロンプトを変更することでより良い成長を遂げていく
 
 
 ##  技術スタック
