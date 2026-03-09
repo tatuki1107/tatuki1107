@@ -100,16 +100,27 @@ Ollama を利用したローカル LLM を搭載し、<br/>
   </tr>
 </table>
 他にもARグラス(XREAL)を使用して作成したシューティングゲームを卒業展示会で在校生展示物として展示し来場された40%の人に遊んでもらいました。
-##  技術スタック
+
+
+## 🛠 技術スタック
 ### Languages
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" />
+</p>
 
 ### Tools & Frameworks
-![](https://skillicons.dev/icons?i=docker,react,nextjs,django,tailwind,blender)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,react,nextjs,django,tailwind,blender" />
+</p>
+
+---
 
 ##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatuki1107&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatuki1107&layout=compact&theme=tokyonight)
+
+<p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=tatuki1107&show_icons=true&theme=tokyonight" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatuki1107&layout=compact&theme=tokyonight" />
+</p>
 
 ##  Contact
 -  メール: kuwano.t.24kdgn@gmail.com
