@@ -36,8 +36,8 @@
 
 ![Demo GIF](./assets/Videotogif.gif)
 
--  [神戸ナイトタイムエコノミー](https://yorunotobira.com/)
- → ２年次にArtFanders Inc.様とインターンシップを通じて開発。神戸市からの依頼として作成しました。内容としてはAI観光コンシェルジュ。
+-  [神戸ナイトタイムエコノミー](https://yorunotobira.com/)   
+  → ２年次にArtFanders Inc.様とインターンシップを通じて開発。神戸市からの依頼として作成しました。内容としてはAI観光コンシェルジュで神戸の高架下周りの回遊目的で作られています。
     <tr>
     <td colspan="2" rowspan="2">
       <div style="display: flex">
