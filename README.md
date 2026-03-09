@@ -99,7 +99,7 @@ Ollama を利用したローカル LLM を搭載し、<br/>
     </td>
   </tr>
 </table>
-
+他にもARグラス(XREAL)を使用して作成したシューティングゲームを卒業展示会で在校生展示物として展示し来場された40%の人に遊んでもらいました。
 ##  技術スタック
 ### Languages
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
