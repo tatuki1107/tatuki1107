@@ -1,145 +1,150 @@
-##  About Me
--  KADOKAWAドワンゴ情報工科学院大学部所属
--  将来はARを主体とした分野に関われたらと思い日々昇進中！！
--  基本的に新しいことには全力で関わりに行きます！！
--  インターン募集中
--  個人でのアプリ販売経験があります！
-  
-## 参加した企画・プロジェクト
-
-- [2024夏モテ活アプリ](#2024夏モテ活アプリ)
-- [Web AR](#web-ar)
-- [2024冬 サントリーグローバルイノベーションセンター様 × 産学連携企画](#2024冬-サントリーグローバルイノベーションセンター様--産学連携企画)
-- [3Dモデル対話AI](#3dモデル対話ai)
-- [神戸ナイトタイムエコノミー](#神戸ナイトタイムエコノミー)
-- [egoGraphica](#egographica)
-- [銀髪ロング美少女 Discord Bot](#銀髪ロング美少女-discord-bot)
-
----
-
-## 2024夏モテ活アプリ
-- [GitHub](https://github.com/vantan-project/motekatu)  
-→ Djangoで開発。**"モテるための活動"（モテ活）**をテーマに、ユーザーのレビューをまとめたプラットフォーム型アプリケーション。  
-HTMLをWebアプリとして動作させるためのコードの書き換えを中心に担当しました（チーム参加）。
+<h1 align="center">桑野 樹希 / Tatsuki Kuwano</h1>
 
 <p align="center">
-  <img width="48%" alt="スクリーンショット 2024-12-21 15 46 43" src="https://github.com/user-attachments/assets/c3e774bd-aa6e-421a-b7f6-d3f6fdc26f19" />
-  <img width="48%" alt="スクリーンショット 2024-12-21 15 47 25" src="https://github.com/user-attachments/assets/fb5ec53d-a4ab-4413-baf3-3fe3f3508f9e" />
+  AR・AI・Webで、体験につながるプロダクトをつくっています。
 </p>
+
 <p align="center">
-  <img width="48%" alt="スクリーンショット 2024-12-21 15 47 33" src="https://github.com/user-attachments/assets/34b41ebf-20ec-46bf-ba38-b2e1833cad8a" />
-  <img width="48%" alt="スクリーンショット 2024-12-21 15 47 45" src="https://github.com/user-attachments/assets/8d9a5cff-d5aa-44f6-b697-b7f0a1400469" />
+  <a href="mailto:kuwano.t.24kdgn@gmail.com">Email</a>
+  ・
+  <a href="https://github.com/tatuki1107?tab=repositories">Repositories</a>
 </p>
 
+## About Me
+
+- KADOKAWAドワンゴ情報工科学院 大学部に所属
+- ARを軸に、AI・Web・3Dを組み合わせた体験づくりに取り組んでいます
+- 個人開発からチーム開発、企業・自治体に関わるプロジェクトまで経験
+- 要件定義、バックエンド、管理画面、データ可視化、3D制作などを担当
+- 個人でのアプリ販売経験あり
+- インターンシップの機会を探しています
+
+## Featured Projects
+
+| Project | Overview | Role / Tech |
+| --- | --- | --- |
+| [egoGraphica](https://egographica.art/) | 現代アーティストとAIを通じて対話できるアートテックプラットフォーム | バックエンド、管理画面、CRM分析 |
+| [神戸ナイトタイムエコノミー](https://yorunotobira.com/) | 神戸の高架下周辺の回遊を支援するAI観光コンシェルジュ | アプリケーション開発 |
+| [3Dモデル対話AI](https://github.com/tatuki1107/bunkasaichatAI) | 3Dキャラクターと会話できるAIアプリ | 企画・3D・バックエンドを個人制作 |
+| [Web AR](https://tatuki1107.github.io/WebAR/) | 文化祭向けに制作したWeb ARコンテンツ | 個人制作 |
+| [銀髪ロング美少女 Discord Bot](#銀髪ロング美少女-discord-bot) | ローカルLLMと長期記憶を備えた会話Bot | AI・バックエンド |
+| [2024夏 モテ活アプリ](https://github.com/vantan-project/motekatu) | レビューを共有するプラットフォーム型Webアプリ | Django・チーム開発 |
+| [産学連携企画](https://github.com/Akasan-T/TECJUM-teamE_hikariwo) | サントリーグローバルイノベーションセンター様との企画 | DB要件定義・バックエンド |
+
 ---
 
-## Web AR
-- [GitHub](https://github.com/tatuki1107/WebAR)  
-→ 文化祭で**全て一人で制作**したWeb ARコンテンツ。  
-[こちらから確認できます](https://tatuki1107.github.io/WebAR/)
+## egoGraphica
 
----
+[公式サイト](https://egographica.art/) ・ [アプリ](https://app.egographica.art/) ・ [プレスリリース](https://prtimes.jp/main/html/rd/p/000000007.000169208.html)
 
-## 2024冬 サントリーグローバルイノベーションセンター様 × 産学連携企画
-- [GitHub](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)  
-→ Djangoで開発。データベースの要件定義、HTMLのWebアプリ化対応、バックエンド処理などを全て担当しました（チーム参加）。
+ArtFanders株式会社が提供する、現代アーティストとAIを通じて対話できるアートテックプラットフォームです。
 
----
+バックエンド / アプリケーション開発として参加し、主に以下を担当しました。
 
-## 3Dモデル対話AI
-- [GitHub](https://github.com/tatuki1107/bunkasaichatAI)  
-→ ２年次文化祭で3Dモデルからバックエンドまで**全て一人で制作**した対話型chatAI。grok aniをイメージして作りました。  
+- 管理画面の実装
+- CRM分析ダッシュボードの機能実装
+- 会話数、売上、コイン消費、CV率の可視化
+- アーティスト別ランキング表示
+- 期間フィルター / データ絞り込み
+- 管理者向けの運用支援機能
 
-**アプリの実際の動きはこちら👇**
-
-![Demo GIF](./assets/Videotogif.gif)
+関連: [PR TIMES](https://prtimes.jp/main/html/rd/p/000000007.000169208.html) ・ [ベストカレンダー](https://bestcalendar.jp/press/130765) ・ [毎日新聞](https://mainichi.jp/articles/20260523/pr2/00m/020/036000c)
 
 ---
 
 ## 神戸ナイトタイムエコノミー
-- [サイトはこちら](https://yorunotobira.com/)  
-→ ２年次にArtFanders Inc.様とインターンシップを通じて開発。  
-神戸市からの依頼として作成しました。内容としてはAI観光コンシェルジュで、神戸の高架下周りの回遊を目的として作られています。
+
+[サイトを見る](https://yorunotobira.com/)
+
+2年次にArtFanders Inc.様とのインターンシップを通じて開発しました。神戸市からの依頼で制作された、神戸の高架下周辺の回遊を促すAI観光コンシェルジュです。
 
 <p align="center">
-  <img width="100%" alt="スクリーンショット" src="./assets/IMG/screenshot_20260302_234746.png" />
-  <img width="100%" alt="スクリーンショット" src="./assets/IMG/screenshot_20260302_234748.png" />
+  <img width="100%" alt="神戸ナイトタイムエコノミーのスクリーンショット" src="./assets/IMG/screenshot_20260302_234746.png" />
+  <img width="100%" alt="神戸ナイトタイムエコノミーのスクリーンショット" src="./assets/IMG/screenshot_20260302_234748.png" />
 </p>
 
 ---
-## egoGraphica
 
-[公式サイト](https://egographica.art/)  
-[アプリ](https://app.egographica.art/)  
-[プレスリリース](https://prtimes.jp/main/html/rd/p/000000007.000169208.html)
+## 3Dモデル対話AI
 
-ArtFanders株式会社が提供する、現代アーティストとAIを通じて対話できるアートテックプラットフォームです。  
-本プロジェクトでは **バックエンド / アプリケーション開発** として参加し、主に管理画面・CRM分析ダッシュボードの開発を担当しました。
+[GitHub](https://github.com/tatuki1107/bunkasaichatAI)
 
-会話数、売上、コイン消費、CV率、アーティスト別ランキングなどを可視化し、  
-サービス運用やマーケティング分析に活用できる管理画面を実装しました。
+2年次の文化祭に向け、3Dモデルからバックエンドまで個人で制作した対話型AIアプリです。
 
-### 担当内容
+![3Dモデル対話AI Demo](./assets/Videotogif.gif)
 
-- 管理画面の実装
-- CRM分析ダッシュボードの機能実装
-- アーティスト別ランキング表示
-- 期間フィルター / データ絞り込み機能
-- 管理者向けの運用支援機能の開発
-
-### 関連記事
-
-- [PR TIMES](https://prtimes.jp/main/html/rd/p/000000007.000169208.html)
-- [ベストカレンダー](https://bestcalendar.jp/press/130765)
-- [毎日新聞](https://mainichi.jp/articles/20260523/pr2/00m/020/036000c)
 ---
+
+## Web AR
+
+[GitHub](https://github.com/tatuki1107/WebAR) ・ [デモを見る](https://tatuki1107.github.io/WebAR/)
+
+文化祭に向けて個人で制作したWeb ARコンテンツです。
+
+---
+
+## 2024夏 モテ活アプリ
+
+[GitHub](https://github.com/vantan-project/motekatu)
+
+「モテるための活動（モテ活）」をテーマに、ユーザーのレビューを共有するプラットフォーム型Webアプリです。Djangoを用いたチーム開発で、HTMLをWebアプリとして動作させるための改修を中心に担当しました。
+
+<p align="center">
+  <img width="48%" alt="モテ活アプリのスクリーンショット1" src="https://github.com/user-attachments/assets/c3e774bd-aa6e-421a-b7f6-d3f6fdc26f19" />
+  <img width="48%" alt="モテ活アプリのスクリーンショット2" src="https://github.com/user-attachments/assets/fb5ec53d-a4ab-4413-baf3-3fe3f3508f9e" />
+</p>
+
+---
+
+## 2024冬 サントリーグローバルイノベーションセンター様 × 産学連携企画
+
+[GitHub](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)
+
+Djangoを用いたチーム開発で、データベースの要件定義、HTMLのWebアプリ化、バックエンド処理などを担当しました。
+
+---
+
 ## 銀髪ロング美少女 Discord Bot
 
-Discord 上で動作する Bot です。  
-Ollama を利用したローカル LLM を搭載し、  
-**「銀髪ロング美少女」人格として自然な会話・反応**を行います。
+Discord上で動作する、Ollamaを利用したローカルLLM搭載の会話Botです。「銀髪ロング美少女」の人格として自然に会話・反応します。
 
-### 機能
-- **会話AI**  
-  Ollama を用いた LLM により、Discord 上で自然な会話を実現
-- **高速レスポンス**  
-  最初の1文字までの遅延を最小化（約1〜2秒）し、テンポの良い返答を実現
-- **文脈理解**  
-  Discord 上の発言内容を把握し、会話の流れに沿った反応を行う
-- **短期記憶 / 長期記憶**  
-  直近の会話履歴と、要約・Embeddingによる長期記憶を組み合わせて会話を継続
-- **Bot成長機能**  
-  会話内容を要約・蓄積し、将来的なプロンプト改善や振る舞いの成長につなげる設計
+- ストリーミングにより、最初の文字まで約1〜2秒のレスポンスを実現
+- Discord上の発言と会話の流れを踏まえた文脈理解
+- 直近の履歴と、要約・Embeddingを組み合わせた短期 / 長期記憶
+- 会話内容を蓄積し、将来のプロンプト改善につなげる成長機能
 
-### スクリーンショット
 <p align="center">
-  <img width="80%" alt="銀髪ロング美少女Bot スクリーンショット" src="./assets/IMG/si-tyan.png" />
+  <img width="80%" alt="銀髪ロング美少女Discord Botのスクリーンショット" src="./assets/IMG/si-tyan.png" />
 </p>
 
 ---
 
-他にもARグラス(XREAL)を使用して作成したシューティングゲームを卒業展示会で在校生展示物として展示し、来場された40%の人に遊んでもらいました。
+## Other Work
 
-## 🛠 技術スタック
+ARグラス（XREAL）を使用したシューティングゲームを制作し、卒業展示会の在校生展示物として出展しました。来場者の40%に体験していただきました。
+
+## Tech Stack
+
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" alt="HTML, CSS, JavaScript, TypeScript, Python, PHP" />
 </p>
 
 ### Tools & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=docker,react,nextjs,django,tailwind,blender" />
-</p>
-
----
-
-##  GitHub Stats
 
 <p>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=tatuki1107&show_icons=true&theme=tokyonight" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatuki1107&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=docker,react,nextjs,django,tailwind,blender" alt="Docker, React, Next.js, Django, Tailwind CSS, Blender" />
 </p>
 
-##  Contact
--  メール: kuwano.t.24kdgn@gmail.com
-- ポートフォリオ:現在準備中
+## GitHub Stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tatuki1107&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatuki1107&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+## Contact
+
+- Email: [kuwano.t.24kdgn@gmail.com](mailto:kuwano.t.24kdgn@gmail.com)
+- Portfolio: 準備中
