@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  要件定義からバックエンド、管理画面、データ可視化、3D制作まで幅広く取り組んでいます。
+</p>
+
+<p align="center">
   <a href="mailto:kuwano.t.24kdgn@gmail.com">Email</a>
   ・
   <a href="https://github.com/tatuki1107?tab=repositories">Repositories</a>
@@ -23,13 +27,13 @@
 
 | Project | Overview | Role / Tech |
 | --- | --- | --- |
-| [egoGraphica](https://egographica.art/) | 現代アーティストとAIを通じて対話できるアートテックプラットフォーム | バックエンド、管理画面、CRM分析 |
-| [神戸ナイトタイムエコノミー](https://yorunotobira.com/) | 神戸の高架下周辺の回遊を支援するAI観光コンシェルジュ | アプリケーション開発 |
-| [3Dモデル対話AI](https://github.com/tatuki1107/bunkasaichatAI) | 3Dキャラクターと会話できるAIアプリ | 企画・3D・バックエンドを個人制作 |
-| [Web AR](https://tatuki1107.github.io/WebAR/) | 文化祭向けに制作したWeb ARコンテンツ | 個人制作 |
-| [銀髪ロング美少女 Discord Bot](#銀髪ロング美少女-discord-bot) | ローカルLLMと長期記憶を備えた会話Bot | AI・バックエンド |
-| [2024夏 モテ活アプリ](https://github.com/vantan-project/motekatu) | レビューを共有するプラットフォーム型Webアプリ | Django・チーム開発 |
-| [産学連携企画](https://github.com/Akasan-T/TECJUM-teamE_hikariwo) | サントリーグローバルイノベーションセンター様との企画 | DB要件定義・バックエンド |
+| [egoGraphica](https://egographica.art/) | 現代アーティストとAIを通じて対話できるアートテックプラットフォーム | 企業プロジェクト / バックエンド、管理画面、CRM分析 |
+| [神戸ナイトタイムエコノミー](https://yorunotobira.com/) | 神戸の高架下周辺の回遊を支援するAI観光コンシェルジュ | 自治体関連・インターン / アプリケーション開発 |
+| 3Dモデル対話AI | 3Dキャラクターと会話できるAIアプリ | 個人制作 / 企画、3D、バックエンド |
+| [Web AR](https://tatuki1107.github.io/WebAR/) | 文化祭向けに制作した画像認識Web ARコンテンツ | 個人制作 / MindAR.js、A-Frame、3D |
+| [銀髪ロング美少女 Discord Bot](#銀髪ロング美少女-discord-bot) | ローカルLLMと長期記憶を備えた会話Bot | 個人制作 / Ollama、AI、バックエンド |
+| [2024夏 モテ活アプリ](https://github.com/vantan-project/motekatu) | レビューを共有するプラットフォーム型Webアプリ | チーム開発 / Django、HTML |
+| [産学連携企画](https://github.com/74616b756d69/TECJUM-teamE_hikariwo) | サントリーグローバルイノベーションセンター様との企画 | 産学連携・チーム開発 / DB要件定義、Django |
 
 ---
 
@@ -58,6 +62,8 @@ ArtFanders株式会社が提供する、現代アーティストとAIを通じ�
 
 2年次にArtFanders Inc.様とのインターンシップを通じて開発しました。神戸市からの依頼で制作された、神戸の高架下周辺の回遊を促すAI観光コンシェルジュです。
 
+アプリケーション開発を担当し、実際の利用シーンを想定した体験づくりに取り組みました。
+
 <p align="center">
   <img width="100%" alt="神戸ナイトタイムエコノミーのスクリーンショット" src="./assets/IMG/screenshot_20260302_234746.png" />
   <img width="100%" alt="神戸ナイトタイムエコノミーのスクリーンショット" src="./assets/IMG/screenshot_20260302_234748.png" />
@@ -67,9 +73,9 @@ ArtFanders株式会社が提供する、現代アーティストとAIを通じ�
 
 ## 3Dモデル対話AI
 
-[GitHub](https://github.com/tatuki1107/bunkasaichatAI)
-
 2年次の文化祭に向け、3Dモデルからバックエンドまで個人で制作した対話型AIアプリです。
+
+企画、3Dモデル制作、対話機能を支えるバックエンドまで一貫して担当しました。ソースコードは現在非公開です。
 
 ![3Dモデル対話AI Demo](./assets/Videotogif.gif)
 
@@ -80,6 +86,8 @@ ArtFanders株式会社が提供する、現代アーティストとAIを通じ�
 [GitHub](https://github.com/tatuki1107/WebAR) ・ [デモを見る](https://tatuki1107.github.io/WebAR/)
 
 文化祭に向けて個人で制作したWeb ARコンテンツです。
+
+MindAR.jsとA-Frameを利用し、画像認識をきっかけに複数の3Dモデルを表示します。企画、画面制作、3Dアセットの組み込み、GitHub Pagesでの公開まで担当しました。
 
 ---
 
@@ -98,7 +106,7 @@ ArtFanders株式会社が提供する、現代アーティストとAIを通じ�
 
 ## 2024冬 サントリーグローバルイノベーションセンター様 × 産学連携企画
 
-[GitHub](https://github.com/Akasan-T/TECJUM-teamE_hikariwo)
+[GitHub](https://github.com/74616b756d69/TECJUM-teamE_hikariwo)
 
 Djangoを用いたチーム開発で、データベースの要件定義、HTMLのWebアプリ化、バックエンド処理などを担当しました。
 
@@ -147,4 +155,3 @@ ARグラス（XREAL）を使用したシューティングゲームを制作し�
 ## Contact
 
 - Email: [kuwano.t.24kdgn@gmail.com](mailto:kuwano.t.24kdgn@gmail.com)
-- Portfolio: 準備中
