@@ -11,6 +11,8 @@
 <p align="center">
   <a href="mailto:kuwano.t.24kdgn@gmail.com">Email</a>
   ・
+  <a href="https://portfolio-dun-nine-27.vercel.app/">Portfolio</a>
+  ・
   <a href="https://github.com/tatuki1107?tab=repositories">Repositories</a>
 </p>
 
@@ -155,3 +157,4 @@ ARグラス（XREAL）を使用したシューティングゲームを制作し�
 ## Contact
 
 - Email: [kuwano.t.24kdgn@gmail.com](mailto:kuwano.t.24kdgn@gmail.com)
+- Portfolio: [桑野 樹希 | AR・AI・3D Creative Developer](https://portfolio-dun-nine-27.vercel.app/)
