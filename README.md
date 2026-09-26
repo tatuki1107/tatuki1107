@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://portfolio-dun-nine-27.vercel.app/">
+    <img width="100%" alt="話しかけると声と表情でこたえる音声対話アバターの紹介ビジュアル" src="./assets/IMG/voice-avatar-hero.png" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>VOICE AVATAR / DEVELOPMENT IN PROGRESS</strong><br />
+  スマートフォンをマイクに、声と表情で応答するキャラクター体験を開発しています。
+</p>
 <h1 align="center">桑野 樹希 / Tatsuki Kuwano</h1>
 
 <p align="center">
