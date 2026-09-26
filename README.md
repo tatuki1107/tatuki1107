@@ -8,6 +8,7 @@
   <strong>VOICE AVATAR / DEVELOPMENT IN PROGRESS</strong><br />
   スマートフォンをマイクに、声と表情で応答するキャラクター体験を開発しています。
 </p>
+
 <h1 align="center">桑野 樹希 / Tatsuki Kuwano</h1>
 
 <p align="center">
