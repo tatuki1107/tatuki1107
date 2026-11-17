@@ -40,6 +40,7 @@
 
 | Project | Overview | Role / Tech |
 | --- | --- | --- |
+| [しろなの配信部屋](#しろなの配信部屋) | スマホのコメントに声と表情で返す文化祭のAIキャラクター展示 | 個人制作 / 2.5Dモデル、Web、対話システム |
 | [egoGraphica](https://egographica.art/) | 現代アーティストとAIを通じて対話できるアートテックプラットフォーム | 企業プロジェクト / バックエンド、管理画面、CRM分析 |
 | [神戸ナイトタイムエコノミー](https://yorunotobira.com/) | 神戸の高架下周辺の回遊を支援するAI観光コンシェルジュ | 自治体関連・インターン / アプリケーション開発 |
 | 3Dモデル対話AI | 3Dキャラクターと会話できるAIアプリ | 個人制作 / 企画、3D、バックエンド |
@@ -47,6 +48,24 @@
 | [銀髪ロング美少女 Discord Bot](#銀髪ロング美少女-discord-bot) | ローカルLLMと長期記憶を備えた会話Bot | 個人制作 / Ollama、AI、バックエンド |
 | [2024夏 モテ活アプリ](https://github.com/vantan-project/motekatu) | レビューを共有するプラットフォーム型Webアプリ | チーム開発 / Django、HTML |
 | [産学連携企画](https://github.com/74616b756d69/TECJUM-teamE_hikariwo) | サントリーグローバルイノベーションセンター様との企画 | 産学連携・チーム開発 / DB要件定義、Django |
+
+
+### しろなの配信部屋
+
+スマホから送ったコメントに、星咲しろなが声と表情で返す文化祭展示。QRで開くコメント画面と、会場モニターをつなぎました。
+
+<p>
+  <a href="https://shirona-exhibit.vercel.app/exhibit/index.html">
+    <img width="100%" src="./assets/shirona-exhibit/exhibit.webp" alt="会場モニターの演技プレビュー。しろな、返答字幕、来場者のコメント欄が並ぶ" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./assets/shirona-exhibit/phone.webp"><img width="24%" src="./assets/shirona-exhibit/phone.webp" alt="来場者のスマホ用コメント画面。入力例を表示" /></a>
+  <a href="./assets/shirona-exhibit/system-design.webp"><img width="73%" src="./assets/shirona-exhibit/system-design.webp" alt="システム設計図。スマホ投稿とカメラの滞在通知をNext.jsとPostgreSQLで受け付け、OpenAIの返答をAivis Cloudの音声と合わせて会場モニターに届ける" /></a>
+</p>
+
+[展示プレビューを見る](https://shirona-exhibit.vercel.app/exhibit/index.html)
 
 ---
 
